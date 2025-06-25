@@ -26,8 +26,8 @@ Este projeto utiliza o pacote [`prompt-sync`](https://www.npmjs.com/package/prom
 ```bash
 npm install prompt-sync
 ```
-
-> ⚠️ O módulo `perf_hooks` é usado no exercício de Memoization para medir tempo de execução, mas **não precisa ser instalado**, pois faz parte da API nativa do Node.js.
+> [!IMPORTANT]
+> O módulo `perf_hooks` é usado no exercício de Memoization para medir tempo de execução, mas **não precisa ser instalado**, pois faz parte da API nativa do Node.js.
 
 ### ▶️ Execute um exercício
 
